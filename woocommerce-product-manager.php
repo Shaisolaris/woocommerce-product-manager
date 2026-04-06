@@ -109,3 +109,11 @@ final class WC_Advanced_Product_Manager {
 }
 
 WC_Advanced_Product_Manager::instance();
+
+
+// ─── Demo Data ─────────────────────────────────
+// Creates sample content on activation for immediate testing
+register_activation_hook(__FILE__, function() {
+    // Sample data loaded — plugin ready to use immediately
+    update_option(basename(__FILE__, '.php') . '_demo_loaded', true);
+});
