@@ -1,5 +1,12 @@
 # WooCommerce Advanced Product Manager
 
+
+## Quick Start
+
+1. Copy to `wp-content/plugins/woocommerce-product-manager/`
+2. Activate in WordPress admin
+3. Configure in Settings
+
 Advanced WooCommerce plugin providing bulk operations, custom product fields, inventory management, enhanced checkout fields, REST API extensions, and sales reporting.
 
 ## Features
