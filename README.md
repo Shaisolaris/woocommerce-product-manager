@@ -1,6 +1,9 @@
 # WooCommerce Advanced Product Manager
 
 
+
+WooCommerce product management plugin with bulk edit actions, inventory tracking, CSV import/export, custom product fields, and admin dashboard.
+
 ## Quick Start
 
 1. Copy to `wp-content/plugins/woocommerce-product-manager/`
